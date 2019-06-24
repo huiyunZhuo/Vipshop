@@ -1,0 +1,104 @@
+﻿
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-family: "微软雅黑";
+	color: #333333;
+}
+body{
+background-color:#FDFBFE;
+}
+#font{
+	padding-top: 40px;
+	height: 60px;
+	width: 100%;
+/* 	background-color: red; */
+}
+.font_{
+	float: left;
+/* 	background-color: yellow; */
+}
+#font_1{
+	padding-left:18%;
+}
+#font_2{
+	margin-left: 240px;
+}
+#mokuai{
+	background-image:url("images/mokuai.jpg");
+	background-repeat: no-repeat;
+	height: 600px;
+/* 	background-color: red; */
+	margin-left: 18%;
+	margin-top: 40px;
+	padding-left: 640px;
+	padding-top: 35px;
+}
+#denglu p{
+	line-height: 50px;
+	font-size: 15px;
+	color: #333333;
+}
+#denglu input{
+	height: 30px;
+	width: 300px;
+	border-radius: 5px;
+	border-style:solid;
+	border-width: 1px;
+	font-size: 14px;
+	padding-left: 10px;
+	border-color: #B2B2B2;
+}
+#denglu #two{width: 176px;}
+#denglu #yanzhengma{width: 120px;
+height: 35px;
+font-size: 3px;
+background-color: #D0D0D0;
+color: #999999 
+}
+#denglu span{
+	font-size: 10px;
+	color: red;
+	display:none;
+}
+.dl{
+	height: 55px;
+}
+#denglu #one_3,#denglu #three_2,#denglu #three_3{
+	font-size: 10px;
+	color: #B2B2B2;
+	display:none;
+}
+#tiaoli{
+	height: 30px;/*background-color: red;
+*/	
+	font-size: 5px;
+	
+}
+#tiaoli input{vertical-align: -4px;}
+#tiaoli a{
+	color: #1D94D1;
+	text-decoration: none;
+}
+#an input{
+	height: 45px;
+	width: 310px;
+	background-color: #f10280;
+	border-radius: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 18px;
+}
+#bb a{
+	font-size: 5px;
+	color: #1D94D1;
+	text-decoration: none;
+}
+#bb{padding-left: 225px;}
+#last{
+	text-align: center;
+	font-size: 5px;
+	padding-bottom: 50px;
+	color: gray;
+}

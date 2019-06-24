@@ -1,0 +1,90 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-family: "微软雅黑";
+	color: #333333;
+}
+body{
+background-color:#FDFBFE;
+}
+#font{
+	padding-top: 40px;
+	height: 60px;
+	width: 100%;
+/* 	background-color: red; */
+}
+.font_{
+	float: left;
+/* 	background-color: yellow; */
+}
+#font_1{
+	padding-left:18%;
+}
+#font_2{
+	margin-left: 240px;
+}
+#mokuai{
+	background-image:url("images/mokuai.jpg");
+	background-repeat: no-repeat;
+	height: 600px;
+/* 	background-color: red; */
+	margin-left: 18%;
+	margin-top: 40px;
+	padding-left: 640px;
+	padding-top: 35px;
+}
+#denglu p{
+	line-height: 50px;
+	font-size: 15px;
+	color: #333333;
+}
+#denglu input{
+	height: 30px;
+	width: 300px;
+	border-radius: 5px;
+	border-style:solid;
+	border-width: 1px;
+	font-size: 14px;
+	padding-left: 10px;
+	border-color: #B2B2B2;
+}
+#denglu span{
+	font-size: 10px;
+	color: #F20266;
+	display:none;
+}
+#denglu button{
+	height: 45px;
+	width: 140px;
+	background-color: #f10280;
+	border-radius: 5px;
+	font-weight: bold;
+	color: white;
+	font-size: 18px;
+}
+.dl{
+	height: 50px;
+}
+#denglu{
+/* 	background-color: blue; */
+
+}
+#xl{
+	height: 50px;/*background-color: red;
+*/	padding-top: 15px;
+	font-size: 5px;
+	
+}
+#xl input{vertical-align: -4px;}
+.a{text-decoration:none;color: #f10280;}
+#first{
+	color:#333333;
+	margin-left: 120px;
+}
+#last{
+	text-align: center;
+	font-size: 5px;
+	padding-bottom: 50px;
+	color: gray;
+}
